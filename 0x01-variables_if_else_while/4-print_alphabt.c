@@ -6,7 +6,9 @@
  */
 
 int main(void)
+
 {
+
         char c, e, q;
 
 	e = 'e';
@@ -19,4 +21,5 @@ int main(void)
 	}
 	putchar('\n');
         return (0);
+
 }
