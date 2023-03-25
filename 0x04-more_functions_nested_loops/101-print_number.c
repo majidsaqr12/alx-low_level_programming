@@ -14,7 +14,7 @@ if (n < 0)
 {
 n *= -1;
 k = n;
-_puychar('-');
+_putchar('-');
 }
 k /= 10;
 if (k != 0)
